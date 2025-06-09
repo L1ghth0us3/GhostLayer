@@ -10,7 +10,11 @@ pub fn scan_file_system(ac: &AntiCheat, output_style: &OutputStyle) -> bool {
         let p = Path::new(path);
         if p.exists() {
             println!();
-            println!("🚨 Detected file: {}", ac.name);
+            println!(
+                "{} Detected file: {}",
+                output_style.symbol("found"),
+                ac.name
+            );
             println!("   → File: {}", path);
             found = true;
         }
