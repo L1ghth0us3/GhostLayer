@@ -5,10 +5,31 @@ mod utils;
 
 use anticheat::get_known_anti_cheats;
 use std::io::{self, Read};
+use winapi::um::wincon::SetConsoleOutputCP;
 
 const VERSION: &str = env!("CARGO_PKG_VERSION");
 
 fn main() {
+    #[cfg(windows)]
+    fn check_unicode_output() {
+        use std::os::windows::prelude::*;
+        //use winapi::um::wincon::SetConsoleOutputCP;
+        use winapi::um::consoleapi::GetConsoleOutputCP;
+        use winapi::um::winnls::CP_UTF8;
+
+        unsafe {
+            let current_cp = GetConsoleOutputCP();
+            //SetConsoleOutputCP(CP_UTF8);
+            if current_cp != CP_UTF8 {
+                println!("UTF-8 not found... Setting ASCII-only mode....");
+                const ASCII_ONLY: bool = true;
+            }
+        }
+    }
+
+    //#[cfg(windows)]
+    check_unicode_output();
+
     println!("🕵️‍♂️ GhostLayer {VERSION} - Anti-Cheat Trace Scanner\n");
 
     let cheats = get_known_anti_cheats();
