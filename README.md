@@ -7,6 +7,15 @@ It's built in Rust with a focus on transparency, user control, and eventually fu
 
 ---
 
+## 🛠️ How to use
+
+Head to the [releases](https://github.com/L1ghth0us3/GhostLayer/releases) page and download the latest version.
+Then run the exe.
+This will automatically run a simple scan and shows any information in a terminal.
+Press enter to close the terminal.
+
+---
+
 ## 🧠 Why I Made This
 
 Kernel-level anti-cheats have become increasingly common in games, often running with the highest system privileges, installing services and drivers that persist beyond gameplay. Many users aren’t even aware of what gets installed, let alone how to remove it cleanly.
@@ -23,7 +32,7 @@ GhostLayer was born out of that frustration. I wanted to clear up and be direct 
 
 ---
 
-## 🛠️ Coming Soon
+## 🧰️ Coming Soon
 
 These are the next features I plan to implement:
 
