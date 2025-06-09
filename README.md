@@ -1,7 +1,5 @@
-# GhostLayer
-### _A tool written in Rust to detect any installed Kernel Level Anti Cheat software on a Windows PC._
-
 # 👻 GhostLayer
+### _A tool written in Rust to detect any installed Kernel Level Anti Cheat software on a Windows PC._
 
 GhostLayer is a privacy-first, open-source tool for scanning your system for traces of kernel-level anti-cheat software — like Riot Vanguard, XIGNCODE3, BattlEye, and others.
 
@@ -11,7 +9,7 @@ It's built in Rust with a focus on transparency, user control, and eventually fu
 
 ## 🧠 Why I Made This
 
-Kernel-level anti-cheats have become increasingly common in games — often running with the highest system privileges, installing services and drivers that persist beyond gameplay. Many users aren’t even aware of what gets installed, let alone how to remove it cleanly.
+Kernel-level anti-cheats have become increasingly common in games, often running with the highest system privileges, installing services and drivers that persist beyond gameplay. Many users aren’t even aware of what gets installed, let alone how to remove it cleanly.
 
 GhostLayer was born out of that frustration. I wanted to clear up and be direct with knowing exactly which kernel anti-cheats are on my system, understand where they live, how they work, and choosing whether I want to remove them or not.
 

@@ -6,8 +6,10 @@ mod utils;
 use anticheat::get_known_anti_cheats;
 use std::io::{self, Read};
 
+const VERSION: &str = env!("CARGO_PKG_VERSION");
+
 fn main() {
-    println!("🕵️‍♂️ GhostLayer - Anti-Cheat Trace Scanner\n");
+    println!("🕵️‍♂️ GhostLayer {VERSION} - Anti-Cheat Trace Scanner\n");
 
     let cheats = get_known_anti_cheats();
     let mut any_found = false;
@@ -47,17 +49,6 @@ fn main() {
         println!("ℹ️ No offending files found !");
     }
 
-    //for ac in &cheats {
-    //    let found_files = scanner::scan_file_system(ac);
-    //    let found_services = scanner::scan_services(ac);
-
-    //    if found_files || found_services {
-    //        removal::print_removal_steps(ac);
-    //        println!();
-    //        any_found = true;
-    //    }
-    //}
-
     println!();
     if !any_found {
         println!("✅ No known anti-cheat drivers found on this system.");
@@ -67,7 +58,7 @@ fn main() {
         )
     }
 
-    // ✅ Pause at the end
+    // Pause at the end
     println!("Press Enter to exit...");
     let _ = io::stdin().read(&mut [0u8]).unwrap();
 }
