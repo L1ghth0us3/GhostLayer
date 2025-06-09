@@ -1,47 +1,37 @@
 mod anticheat;
 mod removal;
 mod scanner;
+mod ui;
 mod utils;
 
+use crate::ui::initialize_cli;
 use anticheat::get_known_anti_cheats;
 use std::io::{self, Read};
-use winapi::um::wincon::SetConsoleOutputCP;
 
 const VERSION: &str = env!("CARGO_PKG_VERSION");
 
 fn main() {
-    #[cfg(windows)]
-    fn check_unicode_output() {
-        use std::os::windows::prelude::*;
-        //use winapi::um::wincon::SetConsoleOutputCP;
-        use winapi::um::consoleapi::GetConsoleOutputCP;
-        use winapi::um::winnls::CP_UTF8;
+    // Initialize the CLI
+    let output_style = initialize_cli();
 
-        unsafe {
-            let current_cp = GetConsoleOutputCP();
-            //SetConsoleOutputCP(CP_UTF8);
-            if current_cp != CP_UTF8 {
-                println!("UTF-8 not found... Setting ASCII-only mode....");
-                const ASCII_ONLY: bool = true;
-            }
-        }
-    }
+    // Start the Program
+    println!(
+        "{} GhostLayer {VERSION} - Anti-Cheat Trace Scanner",
+        output_style.symbol("scan")
+    );
 
-    //#[cfg(windows)]
-    check_unicode_output();
-
-    println!("🕵️‍♂️ GhostLayer {VERSION} - Anti-Cheat Trace Scanner\n");
-
+    // Scan for known anti-cheat drivers
     let cheats = get_known_anti_cheats();
     let mut any_found = false;
     let mut specific_found = false;
 
+    // Scan services for known anti-cheat drivers
     println!("Scanning services...");
     for ac in &cheats {
-        let found_services = scanner::scan_services(ac);
+        let found_services = scanner::scan_services(ac, &output_style);
 
         if found_services {
-            removal::print_removal_steps(ac);
+            removal::print_removal_steps(ac, &output_style);
             println!();
             any_found = true;
             specific_found = true;
@@ -49,17 +39,21 @@ fn main() {
     }
 
     if !specific_found {
-        println!("ℹ️ No offending services found !");
+        println!(
+            "{} No offending services found !",
+            output_style.symbol("info")
+        );
     }
 
     let mut specific_found = false;
 
+    // Scan file system for known anti-cheat drivers
     println!("Scanning File System...");
     for ac in &cheats {
-        let found_files = scanner::scan_file_system(ac);
+        let found_files = scanner::scan_file_system(ac, &output_style);
 
         if found_files {
-            removal::print_removal_steps(ac);
+            removal::print_removal_steps(ac, &output_style);
             println!();
             any_found = true;
             specific_found = true;
@@ -67,15 +61,21 @@ fn main() {
     }
 
     if !specific_found {
-        println!("ℹ️ No offending files found !");
+        println!("{} No offending files found !", output_style.symbol("info"));
     }
 
+    // Print the results
     println!();
     if !any_found {
-        println!("✅ No known anti-cheat drivers found on this system.");
+        println!(
+            "{} No known anti-cheat drivers found on this system.",
+            output_style.symbol("ok")
+        );
     } else {
         println!(
-            "🚨 Kernel Level Anticheat Software found!\n🚨 Please follow the removal instructions above to remove it."
+            "{0} Kernel Level Anticheat Software found!\n\
+            {0} Please follow the removal instructions above to remove it.",
+            output_style.symbol("found")
         )
     }
 
