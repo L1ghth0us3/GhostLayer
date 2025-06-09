@@ -49,4 +49,4 @@ I want GhostLayer to be:
 
 If you care about what runs on your machine, GhostLayer is for you.
 
-Stay tuned 🛡
+Stay tuned ♥
