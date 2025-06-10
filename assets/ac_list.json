@@ -1,0 +1,1742 @@
+{
+  "Easy Anti-Cheat": [
+    {
+      "game": "Halo: The Master Chief Collection",
+      "kernel": true,
+      "os": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "notes": "Kernel-level anti-cheat by Epic (formerly Kamu). Uses EasyAntiCheat.sys on Windows; supports Linux (Proton) and macOS via user-mode modules.",
+      "drivers": [
+        "EasyAntiCheat.sys"
+      ]
+    },
+    {
+      "game": "Fortnite",
+      "kernel": true,
+      "os": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "notes": "Kernel-level anti-cheat by Epic (formerly Kamu). Uses EasyAntiCheat.sys on Windows; supports Linux (Proton) and macOS via user-mode modules.",
+      "drivers": [
+        "EasyAntiCheat.sys"
+      ]
+    },
+    {
+      "game": "Apex Legends",
+      "kernel": true,
+      "os": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "notes": "Kernel-level anti-cheat by Epic (formerly Kamu). Uses EasyAntiCheat.sys on Windows; supports Linux (Proton) and macOS via user-mode modules.",
+      "drivers": [
+        "EasyAntiCheat.sys"
+      ]
+    },
+    {
+      "game": "Halo Infinite",
+      "kernel": true,
+      "os": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "notes": "Kernel-level anti-cheat by Epic (formerly Kamu). Uses EasyAntiCheat.sys on Windows; supports Linux (Proton) and macOS via user-mode modules.",
+      "drivers": [
+        "EasyAntiCheat.sys"
+      ]
+    },
+    {
+      "game": "Back 4 Blood",
+      "kernel": true,
+      "os": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "notes": "Kernel-level anti-cheat by Epic (formerly Kamu). Uses EasyAntiCheat.sys on Windows; supports Linux (Proton) and macOS via user-mode modules.",
+      "drivers": [
+        "EasyAntiCheat.sys"
+      ]
+    },
+    {
+      "game": "Paladins",
+      "kernel": true,
+      "os": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "notes": "Kernel-level anti-cheat by Epic (formerly Kamu). Uses EasyAntiCheat.sys on Windows; supports Linux (Proton) and macOS via user-mode modules.",
+      "drivers": [
+        "EasyAntiCheat.sys"
+      ]
+    },
+    {
+      "game": "SMITE",
+      "kernel": true,
+      "os": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "notes": "Kernel-level anti-cheat by Epic (formerly Kamu). Uses EasyAntiCheat.sys on Windows; supports Linux (Proton) and macOS via user-mode modules.",
+      "drivers": [
+        "EasyAntiCheat.sys"
+      ]
+    },
+    {
+      "game": "Fall Guys: Ultimate Knockout",
+      "kernel": true,
+      "os": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "notes": "Kernel-level anti-cheat by Epic (formerly Kamu). Uses EasyAntiCheat.sys on Windows; supports Linux (Proton) and macOS via user-mode modules.",
+      "drivers": [
+        "EasyAntiCheat.sys"
+      ]
+    },
+    {
+      "game": "Dead By Daylight",
+      "kernel": true,
+      "os": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "notes": "Kernel-level anti-cheat by Epic (formerly Kamu). Uses EasyAntiCheat.sys on Windows; supports Linux (Proton) and macOS via user-mode modules.",
+      "drivers": [
+        "EasyAntiCheat.sys"
+      ]
+    },
+    {
+      "game": "Hunt: Showdown 1896",
+      "kernel": true,
+      "os": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "notes": "Kernel-level anti-cheat by Epic (formerly Kamu). Uses EasyAntiCheat.sys on Windows; supports Linux (Proton) and macOS via user-mode modules.",
+      "drivers": [
+        "EasyAntiCheat.sys"
+      ]
+    },
+    {
+      "game": "Rust",
+      "kernel": true,
+      "os": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "notes": "Kernel-level anti-cheat by Epic (formerly Kamu). Uses EasyAntiCheat.sys on Windows; supports Linux (Proton) and macOS via user-mode modules.",
+      "drivers": [
+        "EasyAntiCheat.sys"
+      ]
+    },
+    {
+      "game": "7 Days to Die",
+      "kernel": true,
+      "os": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "notes": "Kernel-level anti-cheat by Epic (formerly Kamu). Uses EasyAntiCheat.sys on Windows; supports Linux (Proton) and macOS via user-mode modules.",
+      "drivers": [
+        "EasyAntiCheat.sys"
+      ]
+    },
+    {
+      "game": "Squad",
+      "kernel": true,
+      "os": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "notes": "Kernel-level anti-cheat by Epic (formerly Kamu). Uses EasyAntiCheat.sys on Windows; supports Linux (Proton) and macOS via user-mode modules.",
+      "drivers": [
+        "EasyAntiCheat.sys"
+      ]
+    },
+    {
+      "game": "New World",
+      "kernel": true,
+      "os": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "notes": "Kernel-level anti-cheat by Epic (formerly Kamu). Uses EasyAntiCheat.sys on Windows; supports Linux (Proton) and macOS via user-mode modules.",
+      "drivers": [
+        "EasyAntiCheat.sys"
+      ]
+    },
+    {
+      "game": "Warhammer: Vermintide 2",
+      "kernel": true,
+      "os": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "notes": "Kernel-level anti-cheat by Epic (formerly Kamu). Uses EasyAntiCheat.sys on Windows; supports Linux (Proton) and macOS via user-mode modules.",
+      "drivers": [
+        "EasyAntiCheat.sys"
+      ]
+    },
+    {
+      "game": "Insurgency: Sandstorm",
+      "kernel": true,
+      "os": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "notes": "Kernel-level anti-cheat by Epic (formerly Kamu). Uses EasyAntiCheat.sys on Windows; supports Linux (Proton) and macOS via user-mode modules.",
+      "drivers": [
+        "EasyAntiCheat.sys"
+      ]
+    },
+    {
+      "game": "Rogue Company",
+      "kernel": true,
+      "os": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "notes": "Kernel-level anti-cheat by Epic (formerly Kamu). Uses EasyAntiCheat.sys on Windows; supports Linux (Proton) and macOS via user-mode modules.",
+      "drivers": [
+        "EasyAntiCheat.sys"
+      ]
+    },
+    {
+      "game": "Realm Royale",
+      "kernel": true,
+      "os": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "notes": "Kernel-level anti-cheat by Epic (formerly Kamu). Uses EasyAntiCheat.sys on Windows; supports Linux (Proton) and macOS via user-mode modules.",
+      "drivers": [
+        "EasyAntiCheat.sys"
+      ]
+    },
+    {
+      "game": "For Honor",
+      "kernel": true,
+      "os": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "notes": "Kernel-level anti-cheat by Epic (formerly Kamu). Uses EasyAntiCheat.sys on Windows; supports Linux (Proton) and macOS via user-mode modules.",
+      "drivers": [
+        "EasyAntiCheat.sys"
+      ]
+    },
+    {
+      "game": "Hell Let Loose",
+      "kernel": true,
+      "os": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "notes": "Kernel-level anti-cheat by Epic (formerly Kamu). Uses EasyAntiCheat.sys on Windows; supports Linux (Proton) and macOS via user-mode modules.",
+      "drivers": [
+        "EasyAntiCheat.sys"
+      ]
+    },
+    {
+      "game": "Bless Unleashed",
+      "kernel": true,
+      "os": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "notes": "Kernel-level anti-cheat by Epic (formerly Kamu). Uses EasyAntiCheat.sys on Windows; supports Linux (Proton) and macOS via user-mode modules.",
+      "drivers": [
+        "EasyAntiCheat.sys"
+      ]
+    },
+    {
+      "game": "Rising Storm 2: Vietnam",
+      "kernel": true,
+      "os": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "notes": "Kernel-level anti-cheat by Epic (formerly Kamu). Uses EasyAntiCheat.sys on Windows; supports Linux (Proton) and macOS via user-mode modules.",
+      "drivers": [
+        "EasyAntiCheat.sys"
+      ]
+    },
+    {
+      "game": "Pandemic Express - Zombie Escape",
+      "kernel": true,
+      "os": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "notes": "Kernel-level anti-cheat by Epic (formerly Kamu). Uses EasyAntiCheat.sys on Windows; supports Linux (Proton) and macOS via user-mode modules.",
+      "drivers": [
+        "EasyAntiCheat.sys"
+      ]
+    },
+    {
+      "game": "SCUM",
+      "kernel": true,
+      "os": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "notes": "Kernel-level anti-cheat by Epic (formerly Kamu). Uses EasyAntiCheat.sys on Windows; supports Linux (Proton) and macOS via user-mode modules.",
+      "drivers": [
+        "EasyAntiCheat.sys"
+      ]
+    },
+    {
+      "game": "Tom Clancy's The Division 2",
+      "kernel": true,
+      "os": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "notes": "Kernel-level anti-cheat by Epic (formerly Kamu). Uses EasyAntiCheat.sys on Windows; supports Linux (Proton) and macOS via user-mode modules.",
+      "drivers": [
+        "EasyAntiCheat.sys"
+      ]
+    },
+    {
+      "game": "JUMP FORCE",
+      "kernel": true,
+      "os": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "notes": "Kernel-level anti-cheat by Epic (formerly Kamu). Uses EasyAntiCheat.sys on Windows; supports Linux (Proton) and macOS via user-mode modules.",
+      "drivers": [
+        "EasyAntiCheat.sys"
+      ]
+    },
+    {
+      "game": "Knockout City",
+      "kernel": true,
+      "os": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "notes": "Kernel-level anti-cheat by Epic (formerly Kamu). Uses EasyAntiCheat.sys on Windows; supports Linux (Proton) and macOS via user-mode modules.",
+      "drivers": [
+        "EasyAntiCheat.sys"
+      ]
+    },
+    {
+      "game": "DRAGON BALL FighterZ",
+      "kernel": true,
+      "os": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "notes": "Kernel-level anti-cheat by Epic (formerly Kamu). Uses EasyAntiCheat.sys on Windows; supports Linux (Proton) and macOS via user-mode modules.",
+      "drivers": [
+        "EasyAntiCheat.sys"
+      ]
+    },
+    {
+      "game": "Enlisted",
+      "kernel": true,
+      "os": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "notes": "Kernel-level anti-cheat by Epic (formerly Kamu). Uses EasyAntiCheat.sys on Windows; supports Linux (Proton) and macOS via user-mode modules.",
+      "drivers": [
+        "EasyAntiCheat.sys"
+      ]
+    },
+    {
+      "game": "Due Process",
+      "kernel": true,
+      "os": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "notes": "Kernel-level anti-cheat by Epic (formerly Kamu). Uses EasyAntiCheat.sys on Windows; supports Linux (Proton) and macOS via user-mode modules.",
+      "drivers": [
+        "EasyAntiCheat.sys"
+      ]
+    },
+    {
+      "game": "Rec Room",
+      "kernel": true,
+      "os": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "notes": "Kernel-level anti-cheat by Epic (formerly Kamu). Uses EasyAntiCheat.sys on Windows; supports Linux (Proton) and macOS via user-mode modules.",
+      "drivers": [
+        "EasyAntiCheat.sys"
+      ]
+    },
+    {
+      "game": "World War 3",
+      "kernel": true,
+      "os": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "notes": "Kernel-level anti-cheat by Epic (formerly Kamu). Uses EasyAntiCheat.sys on Windows; supports Linux (Proton) and macOS via user-mode modules.",
+      "drivers": [
+        "EasyAntiCheat.sys"
+      ]
+    },
+    {
+      "game": "iRacing",
+      "kernel": true,
+      "os": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "notes": "Kernel-level anti-cheat by Epic (formerly Kamu). Uses EasyAntiCheat.sys on Windows; supports Linux (Proton) and macOS via user-mode modules.",
+      "drivers": [
+        "EasyAntiCheat.sys"
+      ]
+    },
+    {
+      "game": "DRAGON BALL XENOVERSE 2",
+      "kernel": true,
+      "os": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "notes": "Kernel-level anti-cheat by Epic (formerly Kamu). Uses EasyAntiCheat.sys on Windows; supports Linux (Proton) and macOS via user-mode modules.",
+      "drivers": [
+        "EasyAntiCheat.sys"
+      ]
+    },
+    {
+      "game": "Tom Clancy's Ghost Recon Wildlands",
+      "kernel": true,
+      "os": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "notes": "Kernel-level anti-cheat by Epic (formerly Kamu). Uses EasyAntiCheat.sys on Windows; supports Linux (Proton) and macOS via user-mode modules.",
+      "drivers": [
+        "EasyAntiCheat.sys"
+      ]
+    },
+    {
+      "game": "Watch_Dogs® 2",
+      "kernel": true,
+      "os": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "notes": "Kernel-level anti-cheat by Epic (formerly Kamu). Uses EasyAntiCheat.sys on Windows; supports Linux (Proton) and macOS via user-mode modules.",
+      "drivers": [
+        "EasyAntiCheat.sys"
+      ]
+    },
+    {
+      "game": "Ironsight",
+      "kernel": true,
+      "os": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "notes": "Kernel-level anti-cheat by Epic (formerly Kamu). Uses EasyAntiCheat.sys on Windows; supports Linux (Proton) and macOS via user-mode modules.",
+      "drivers": [
+        "EasyAntiCheat.sys"
+      ]
+    },
+    {
+      "game": "CRSED: F.O.A.D.",
+      "kernel": true,
+      "os": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "notes": "Kernel-level anti-cheat by Epic (formerly Kamu). Uses EasyAntiCheat.sys on Windows; supports Linux (Proton) and macOS via user-mode modules.",
+      "drivers": [
+        "EasyAntiCheat.sys"
+      ]
+    },
+    {
+      "game": "STAR WARS™: Squadrons",
+      "kernel": true,
+      "os": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "notes": "Kernel-level anti-cheat by Epic (formerly Kamu). Uses EasyAntiCheat.sys on Windows; supports Linux (Proton) and macOS via user-mode modules.",
+      "drivers": [
+        "EasyAntiCheat.sys"
+      ]
+    },
+    {
+      "game": "Diabotical",
+      "kernel": true,
+      "os": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "notes": "Kernel-level anti-cheat by Epic (formerly Kamu). Uses EasyAntiCheat.sys on Windows; supports Linux (Proton) and macOS via user-mode modules.",
+      "drivers": [
+        "EasyAntiCheat.sys"
+      ]
+    },
+    {
+      "game": "Totally Accurate Battlegrounds",
+      "kernel": true,
+      "os": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "notes": "Kernel-level anti-cheat by Epic (formerly Kamu). Uses EasyAntiCheat.sys on Windows; supports Linux (Proton) and macOS via user-mode modules.",
+      "drivers": [
+        "EasyAntiCheat.sys"
+      ]
+    },
+    {
+      "game": "Post Scriptum",
+      "kernel": true,
+      "os": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "notes": "Kernel-level anti-cheat by Epic (formerly Kamu). Uses EasyAntiCheat.sys on Windows; supports Linux (Proton) and macOS via user-mode modules.",
+      "drivers": [
+        "EasyAntiCheat.sys"
+      ]
+    },
+    {
+      "game": "Sector's Edge",
+      "kernel": true,
+      "os": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "notes": "Kernel-level anti-cheat by Epic (formerly Kamu). Uses EasyAntiCheat.sys on Windows; supports Linux (Proton) and macOS via user-mode modules.",
+      "drivers": [
+        "EasyAntiCheat.sys"
+      ]
+    },
+    {
+      "game": "Worms Rumble",
+      "kernel": true,
+      "os": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "notes": "Kernel-level anti-cheat by Epic (formerly Kamu). Uses EasyAntiCheat.sys on Windows; supports Linux (Proton) and macOS via user-mode modules.",
+      "drivers": [
+        "EasyAntiCheat.sys"
+      ]
+    },
+    {
+      "game": "Dirty Bomb",
+      "kernel": true,
+      "os": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "notes": "Kernel-level anti-cheat by Epic (formerly Kamu). Uses EasyAntiCheat.sys on Windows; supports Linux (Proton) and macOS via user-mode modules.",
+      "drivers": [
+        "EasyAntiCheat.sys"
+      ]
+    },
+    {
+      "game": "Empyrion - Galactic Survival",
+      "kernel": true,
+      "os": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "notes": "Kernel-level anti-cheat by Epic (formerly Kamu). Uses EasyAntiCheat.sys on Windows; supports Linux (Proton) and macOS via user-mode modules.",
+      "drivers": [
+        "EasyAntiCheat.sys"
+      ]
+    },
+    {
+      "game": "Brawlhalla",
+      "kernel": true,
+      "os": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "notes": "Kernel-level anti-cheat by Epic (formerly Kamu). Uses EasyAntiCheat.sys on Windows; supports Linux (Proton) and macOS via user-mode modules.",
+      "drivers": [
+        "EasyAntiCheat.sys"
+      ]
+    },
+    {
+      "game": "POLYGON",
+      "kernel": true,
+      "os": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "notes": "Kernel-level anti-cheat by Epic (formerly Kamu). Uses EasyAntiCheat.sys on Windows; supports Linux (Proton) and macOS via user-mode modules.",
+      "drivers": [
+        "EasyAntiCheat.sys"
+      ]
+    },
+    {
+      "game": "Albion Online",
+      "kernel": true,
+      "os": [
+        "Windows",
+        "Linux",
+        "macOS"
+      ],
+      "notes": "Kernel-level anti-cheat by Epic (formerly Kamu). Uses EasyAntiCheat.sys on Windows; supports Linux (Proton) and macOS via user-mode modules.",
+      "drivers": [
+        "EasyAntiCheat.sys"
+      ]
+    }
+  ],
+  "EA anticheat": [
+    {
+      "game": "FIFA 23",
+      "kernel": true,
+      "os": [
+        "Windows"
+      ],
+      "notes": "Electronic Arts AntiCheat (EAAC) introduced in 2022 (FIFA 23). Uses a kernel driver (eaanticheat.sys) on Windows.",
+      "drivers": [
+        "eaanticheat.sys"
+      ]
+    },
+    {
+      "game": "FIFA 22 (PC) – via update",
+      "kernel": true,
+      "os": [
+        "Windows"
+      ],
+      "notes": "Electronic Arts AntiCheat (EAAC) introduced in 2022 (FIFA 23). Uses a kernel driver (eaanticheat.sys) on Windows.",
+      "drivers": [
+        "eaanticheat.sys"
+      ]
+    }
+  ],
+  "Hyperion": [
+    {
+      "game": "Roblox",
+      "kernel": false,
+      "os": [
+        "Windows"
+      ],
+      "notes": "Byfron 'Hyperion' anti-tamper integrated into Roblox (64-bit client). User-mode anti-cheat (no kernel driver)."
+    }
+  ],
+  "Vanguard": [
+    {
+      "game": "Valorant",
+      "kernel": true,
+      "os": [
+        "Windows"
+      ],
+      "notes": "Riot Vanguard for Valorant. Always-on kernel driver (vgk.sys) that loads at system startup.",
+      "drivers": [
+        "vgk.sys"
+      ]
+    }
+  ],
+  "Arbiter": [
+    {
+      "game": "Halo Infinite",
+      "kernel": false,
+      "os": [
+        "Windows"
+      ],
+      "notes": "Halo Infinite's proprietary anti-cheat (user-mode only, no kernel driver)."
+    }
+  ],
+  "Zakynthos": [
+    {
+      "game": "PUBG: Battlegrounds",
+      "kernel": true,
+      "os": [
+        "Windows"
+      ],
+      "notes": "PUBG's in-house anti-cheat (since 2021). Uses service (zksvc.exe) and kernel driver (Navagio.sys).",
+      "drivers": [
+        "Navagio.sys"
+      ]
+    },
+    {
+      "game": "Eternal Return",
+      "kernel": true,
+      "os": [
+        "Windows"
+      ],
+      "notes": "PUBG's in-house anti-cheat (since 2021). Uses service (zksvc.exe) and kernel driver (Navagio.sys).",
+      "drivers": [
+        "Navagio.sys"
+      ]
+    }
+  ],
+  "BattlEye": [
+    {
+      "game": "ARK: Survival Evolved",
+      "kernel": true,
+      "os": [
+        "Windows",
+        "Linux"
+      ],
+      "notes": "BattlEye anti-cheat with kernel driver (BEDaisy.sys) on Windows. Also supports Linux (Proton) for some games.",
+      "drivers": [
+        "BEDaisy.sys"
+      ]
+    },
+    {
+      "game": "DayZ",
+      "kernel": true,
+      "os": [
+        "Windows",
+        "Linux"
+      ],
+      "notes": "BattlEye anti-cheat with kernel driver (BEDaisy.sys) on Windows. Also supports Linux (Proton) for some games.",
+      "drivers": [
+        "BEDaisy.sys"
+      ]
+    },
+    {
+      "game": "Arma 3",
+      "kernel": true,
+      "os": [
+        "Windows",
+        "Linux"
+      ],
+      "notes": "BattlEye anti-cheat with kernel driver (BEDaisy.sys) on Windows. Also supports Linux (Proton) for some games.",
+      "drivers": [
+        "BEDaisy.sys"
+      ]
+    },
+    {
+      "game": "Escape from Tarkov",
+      "kernel": true,
+      "os": [
+        "Windows",
+        "Linux"
+      ],
+      "notes": "BattlEye anti-cheat with kernel driver (BEDaisy.sys) on Windows. Also supports Linux (Proton) for some games.",
+      "drivers": [
+        "BEDaisy.sys"
+      ]
+    },
+    {
+      "game": "Rainbow Six Siege",
+      "kernel": true,
+      "os": [
+        "Windows",
+        "Linux"
+      ],
+      "notes": "BattlEye anti-cheat with kernel driver (BEDaisy.sys) on Windows. Also supports Linux (Proton) for some games.",
+      "drivers": [
+        "BEDaisy.sys"
+      ]
+    },
+    {
+      "game": "PUBG: Battlegrounds",
+      "kernel": true,
+      "os": [
+        "Windows",
+        "Linux"
+      ],
+      "notes": "BattlEye anti-cheat with kernel driver (BEDaisy.sys) on Windows. Also supports Linux (Proton) for some games.",
+      "drivers": [
+        "BEDaisy.sys"
+      ]
+    },
+    {
+      "game": "Unturned",
+      "kernel": true,
+      "os": [
+        "Windows",
+        "Linux"
+      ],
+      "notes": "BattlEye anti-cheat with kernel driver (BEDaisy.sys) on Windows. Also supports Linux (Proton) for some games.",
+      "drivers": [
+        "BEDaisy.sys"
+      ]
+    },
+    {
+      "game": "Mount & Blade II: Bannerlord",
+      "kernel": true,
+      "os": [
+        "Windows",
+        "Linux"
+      ],
+      "notes": "BattlEye anti-cheat with kernel driver (BEDaisy.sys) on Windows. Also supports Linux (Proton) for some games.",
+      "drivers": [
+        "BEDaisy.sys"
+      ]
+    },
+    {
+      "game": "Planetside 2",
+      "kernel": true,
+      "os": [
+        "Windows",
+        "Linux"
+      ],
+      "notes": "BattlEye anti-cheat with kernel driver (BEDaisy.sys) on Windows. Also supports Linux (Proton) for some games.",
+      "drivers": [
+        "BEDaisy.sys"
+      ]
+    },
+    {
+      "game": "H1Z1",
+      "kernel": true,
+      "os": [
+        "Windows",
+        "Linux"
+      ],
+      "notes": "BattlEye anti-cheat with kernel driver (BEDaisy.sys) on Windows. Also supports Linux (Proton) for some games.",
+      "drivers": [
+        "BEDaisy.sys"
+      ]
+    },
+    {
+      "game": "Survarium",
+      "kernel": true,
+      "os": [
+        "Windows",
+        "Linux"
+      ],
+      "notes": "BattlEye anti-cheat with kernel driver (BEDaisy.sys) on Windows. Also supports Linux (Proton) for some games.",
+      "drivers": [
+        "BEDaisy.sys"
+      ]
+    },
+    {
+      "game": "The Crew 2",
+      "kernel": true,
+      "os": [
+        "Windows",
+        "Linux"
+      ],
+      "notes": "BattlEye anti-cheat with kernel driver (BEDaisy.sys) on Windows. Also supports Linux (Proton) for some games.",
+      "drivers": [
+        "BEDaisy.sys"
+      ]
+    },
+    {
+      "game": "Armored Warfare",
+      "kernel": true,
+      "os": [
+        "Windows",
+        "Linux"
+      ],
+      "notes": "BattlEye anti-cheat with kernel driver (BEDaisy.sys) on Windows. Also supports Linux (Proton) for some games.",
+      "drivers": [
+        "BEDaisy.sys"
+      ]
+    }
+  ],
+  "Uncheater": [
+    {
+      "game": "PUBG: Battlegrounds",
+      "kernel": true,
+      "os": [
+        "Windows"
+      ],
+      "notes": "Used in PUBG Lite and some versions of PUBG. Installs XIGNCODE3’s kernel driver (xhunter1.sys).",
+      "drivers": [
+        "xhunter1.sys"
+      ]
+    },
+    {
+      "game": "Eternal Return",
+      "kernel": true,
+      "os": [
+        "Windows"
+      ],
+      "notes": "Used in PUBG Lite and some versions of PUBG. Installs XIGNCODE3’s kernel driver (xhunter1.sys).",
+      "drivers": [
+        "xhunter1.sys"
+      ]
+    },
+    {
+      "game": "PUBG Lite",
+      "kernel": true,
+      "os": [
+        "Windows"
+      ],
+      "notes": "Used in PUBG Lite and some versions of PUBG. Installs XIGNCODE3’s kernel driver (xhunter1.sys).",
+      "drivers": [
+        "xhunter1.sys"
+      ]
+    }
+  ],
+  "FairFight": [
+    {
+      "game": "Battlefield 1",
+      "kernel": false,
+      "os": [],
+      "notes": "Server-side anti-cheat (statistical analysis). No client driver (runs on game servers)."
+    },
+    {
+      "game": "Battlefield V",
+      "kernel": false,
+      "os": [],
+      "notes": "Server-side anti-cheat (statistical analysis). No client driver (runs on game servers)."
+    },
+    {
+      "game": "Battlefield 4",
+      "kernel": false,
+      "os": [],
+      "notes": "Server-side anti-cheat (statistical analysis). No client driver (runs on game servers)."
+    },
+    {
+      "game": "Battlefield Hardline",
+      "kernel": false,
+      "os": [],
+      "notes": "Server-side anti-cheat (statistical analysis). No client driver (runs on game servers)."
+    }
+  ],
+  "XIGNCODE3": [
+    {
+      "game": "Blade & Soul",
+      "kernel": true,
+      "os": [
+        "Windows"
+      ],
+      "notes": "Wellbia’s anti-cheat often used in Asian games. Employs a kernel-mode driver (xhunter1.sys) on Windows.",
+      "drivers": [
+        "xhunter1.sys"
+      ]
+    },
+    {
+      "game": "Black Desert Online",
+      "kernel": true,
+      "os": [
+        "Windows"
+      ],
+      "notes": "Wellbia’s anti-cheat often used in Asian games. Employs a kernel-mode driver (xhunter1.sys) on Windows.",
+      "drivers": [
+        "xhunter1.sys"
+      ]
+    },
+    {
+      "game": "Crossfire",
+      "kernel": true,
+      "os": [
+        "Windows"
+      ],
+      "notes": "Wellbia’s anti-cheat often used in Asian games. Employs a kernel-mode driver (xhunter1.sys) on Windows.",
+      "drivers": [
+        "xhunter1.sys"
+      ]
+    },
+    {
+      "game": "Atlantica Online",
+      "kernel": true,
+      "os": [
+        "Windows"
+      ],
+      "notes": "Wellbia’s anti-cheat often used in Asian games. Employs a kernel-mode driver (xhunter1.sys) on Windows.",
+      "drivers": [
+        "xhunter1.sys"
+      ]
+    },
+    {
+      "game": "AVA",
+      "kernel": true,
+      "os": [
+        "Windows"
+      ],
+      "notes": "Wellbia’s anti-cheat often used in Asian games. Employs a kernel-mode driver (xhunter1.sys) on Windows.",
+      "drivers": [
+        "xhunter1.sys"
+      ]
+    }
+  ],
+  "VAC": [
+    {
+      "game": "Counter-Strike: Global Offensive",
+      "kernel": false,
+      "os": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "notes": "Valve Anti-Cheat. User-mode anti-cheat with delayed ban system (no kernel component). Works across Windows, macOS, Linux."
+    },
+    {
+      "game": "Dota 2",
+      "kernel": false,
+      "os": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "notes": "Valve Anti-Cheat. User-mode anti-cheat with delayed ban system (no kernel component). Works across Windows, macOS, Linux."
+    },
+    {
+      "game": "Team Fortress 2",
+      "kernel": false,
+      "os": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "notes": "Valve Anti-Cheat. User-mode anti-cheat with delayed ban system (no kernel component). Works across Windows, macOS, Linux."
+    },
+    {
+      "game": "Half-Life: Alyx",
+      "kernel": false,
+      "os": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "notes": "Valve Anti-Cheat. User-mode anti-cheat with delayed ban system (no kernel component). Works across Windows, macOS, Linux."
+    }
+  ],
+  "nProtect GameGuard": [
+    {
+      "game": "Lineage II",
+      "kernel": true,
+      "os": [
+        "Windows"
+      ],
+      "notes": "GameGuard (INCA Internet). Rootkit-like anti-cheat widely used in MMOs. Loads a kernel module disguised as GameMon.des.",
+      "drivers": [
+        "GameMon.des"
+      ]
+    },
+    {
+      "game": "Point Blank",
+      "kernel": true,
+      "os": [
+        "Windows"
+      ],
+      "notes": "GameGuard (INCA Internet). Rootkit-like anti-cheat widely used in MMOs. Loads a kernel module disguised as GameMon.des.",
+      "drivers": [
+        "GameMon.des"
+      ]
+    },
+    {
+      "game": "Phantasy Star Online 2",
+      "kernel": true,
+      "os": [
+        "Windows"
+      ],
+      "notes": "GameGuard (INCA Internet). Rootkit-like anti-cheat widely used in MMOs. Loads a kernel module disguised as GameMon.des.",
+      "drivers": [
+        "GameMon.des"
+      ]
+    }
+  ],
+  "NEAC Protect": [
+    {
+      "game": "Naraka: Bladepoint",
+      "kernel": true,
+      "os": [
+        "Windows"
+      ],
+      "notes": "NetEase’s kernel anti-cheat (NEAC). Used in games like Naraka: Bladepoint. Installs neacsafe.sys driver.",
+      "drivers": [
+        "neacsafe.sys"
+      ]
+    }
+  ],
+  "miHoYo Protect": [
+    {
+      "game": "Genshin Impact",
+      "kernel": true,
+      "os": [
+        "Windows"
+      ],
+      "notes": "miHoYo’s anti-cheat (Genshin Impact, etc.). Uses kernel driver mhyprot2.sys (notorious for past vulnerabilities).",
+      "drivers": [
+        "mhyprot2.sys"
+      ]
+    }
+  ],
+  "Denuvo Anti-Cheat": [
+    {
+      "game": "Doom Eternal",
+      "kernel": true,
+      "os": [
+        "Windows"
+      ],
+      "notes": "Denuvo Anti-Cheat by Irdeto. Kernel-mode anti-cheat driver installed with games (e.g., Doom Eternal). Runs only while game is active."
+    },
+    {
+      "game": "Wolfenstein: Youngblood",
+      "kernel": true,
+      "os": [
+        "Windows"
+      ],
+      "notes": "Denuvo Anti-Cheat by Irdeto. Kernel-mode anti-cheat driver installed with games (e.g., Doom Eternal). Runs only while game is active."
+    }
+  ],
+  "EQU8": [
+    {
+      "game": "Splitgate",
+      "kernel": true,
+      "os": [
+        "Windows"
+      ],
+      "notes": "EQU8 anti-cheat (Int3 Software). Uses a kernel driver (EQU8_Helper_xx.sys) to block unauthorized memory access.",
+      "drivers": [
+        "EQU8_Helper.sys"
+      ]
+    },
+    {
+      "game": "Dual Universe",
+      "kernel": true,
+      "os": [
+        "Windows"
+      ],
+      "notes": "EQU8 anti-cheat (Int3 Software). Uses a kernel driver (EQU8_Helper_xx.sys) to block unauthorized memory access.",
+      "drivers": [
+        "EQU8_Helper.sys"
+      ]
+    },
+    {
+      "game": "Diabotical",
+      "kernel": true,
+      "os": [
+        "Windows"
+      ],
+      "notes": "EQU8 anti-cheat (Int3 Software). Uses a kernel driver (EQU8_Helper_xx.sys) to block unauthorized memory access.",
+      "drivers": [
+        "EQU8_Helper.sys"
+      ]
+    }
+  ],
+  "FACEIT": [
+    {
+      "game": "Counter-Strike: Global Offensive (FACEIT)",
+      "kernel": true,
+      "os": [
+        "Windows"
+      ],
+      "notes": "FACEIT Anti-Cheat client for competitive CS:GO, etc. Installs a kernel driver (FACEIT.sys) on Windows.",
+      "drivers": [
+        "FACEIT.sys"
+      ]
+    }
+  ],
+  "ESEA": [
+    {
+      "game": "Counter-Strike: Global Offensive (ESEA)",
+      "kernel": true,
+      "os": [
+        "Windows"
+      ],
+      "notes": "ESEA League anti-cheat client. Uses a kernel driver (historically named dxdiag.sys) on Windows.",
+      "drivers": [
+        "dxdiag.sys"
+      ]
+    }
+  ],
+  "Treyarch Anti-Cheat": [
+    {
+      "game": "Call of Duty: Black Ops Cold War",
+      "kernel": false,
+      "os": [
+        "Windows"
+      ],
+      "notes": "Treyarch’s internal anti-cheat (Call of Duty: Black Ops Cold War). Entirely user-mode (no kernel driver)."
+    }
+  ],
+  "RICOCHET": [
+    {
+      "game": "Call of Duty: Modern Warfare (2019)",
+      "kernel": true,
+      "os": [
+        "Windows"
+      ],
+      "notes": "Activision’s anti-cheat for Call of Duty. Kernel driver (atvi-brynhildr.sys) runs during gameplay on PC.",
+      "drivers": [
+        "atvi-brynhildr.sys"
+      ]
+    },
+    {
+      "game": "Call of Duty: Warzone",
+      "kernel": true,
+      "os": [
+        "Windows"
+      ],
+      "notes": "Activision’s anti-cheat for Call of Duty. Kernel driver (atvi-brynhildr.sys) runs during gameplay on PC.",
+      "drivers": [
+        "atvi-brynhildr.sys"
+      ]
+    },
+    {
+      "game": "Call of Duty: Vanguard",
+      "kernel": true,
+      "os": [
+        "Windows"
+      ],
+      "notes": "Activision’s anti-cheat for Call of Duty. Kernel driver (atvi-brynhildr.sys) runs during gameplay on PC.",
+      "drivers": [
+        "atvi-brynhildr.sys"
+      ]
+    },
+    {
+      "game": "Call of Duty: Modern Warfare II (2022)",
+      "kernel": true,
+      "os": [
+        "Windows"
+      ],
+      "notes": "Activision’s anti-cheat for Call of Duty. Kernel driver (atvi-brynhildr.sys) runs during gameplay on PC.",
+      "drivers": [
+        "atvi-brynhildr.sys"
+      ]
+    }
+  ],
+  "PunkBuster": [
+    {
+      "game": "Battlefield 3",
+      "kernel": true,
+      "os": [
+        "Windows"
+      ],
+      "notes": "Even Balance’s PunkBuster. Uses PnkBstrA/B services and a kernel driver PnkBstrK.sys on modern systems.",
+      "drivers": [
+        "PnkBstrK.sys"
+      ]
+    },
+    {
+      "game": "Battlefield 4",
+      "kernel": true,
+      "os": [
+        "Windows"
+      ],
+      "notes": "Even Balance’s PunkBuster. Uses PnkBstrA/B services and a kernel driver PnkBstrK.sys on modern systems.",
+      "drivers": [
+        "PnkBstrK.sys"
+      ]
+    },
+    {
+      "game": "Battlefield Hardline",
+      "kernel": true,
+      "os": [
+        "Windows"
+      ],
+      "notes": "Even Balance’s PunkBuster. Uses PnkBstrA/B services and a kernel driver PnkBstrK.sys on modern systems.",
+      "drivers": [
+        "PnkBstrK.sys"
+      ]
+    },
+    {
+      "game": "Medal of Honor Warfighter",
+      "kernel": true,
+      "os": [
+        "Windows"
+      ],
+      "notes": "Even Balance’s PunkBuster. Uses PnkBstrA/B services and a kernel driver PnkBstrK.sys on modern systems.",
+      "drivers": [
+        "PnkBstrK.sys"
+      ]
+    },
+    {
+      "game": "Assassin's Creed 4: Black Flag (Multiplayer)",
+      "kernel": true,
+      "os": [
+        "Windows"
+      ],
+      "notes": "Even Balance’s PunkBuster. Uses PnkBstrA/B services and a kernel driver PnkBstrK.sys on modern systems.",
+      "drivers": [
+        "PnkBstrK.sys"
+      ]
+    },
+    {
+      "game": "Far Cry 3 (Multiplayer)",
+      "kernel": true,
+      "os": [
+        "Windows"
+      ],
+      "notes": "Even Balance’s PunkBuster. Uses PnkBstrA/B services and a kernel driver PnkBstrK.sys on modern systems.",
+      "drivers": [
+        "PnkBstrK.sys"
+      ]
+    },
+    {
+      "game": "APB Reloaded (pre-2024)",
+      "kernel": true,
+      "os": [
+        "Windows"
+      ],
+      "notes": "Even Balance’s PunkBuster. Uses PnkBstrA/B services and a kernel driver PnkBstrK.sys on modern systems.",
+      "drivers": [
+        "PnkBstrK.sys"
+      ]
+    }
+  ],
+  "Anti-Cheat Expert": [
+    {
+      "game": "Ring of Elysium",
+      "kernel": true,
+      "os": [
+        "Windows"
+      ],
+      "notes": "Tencent’s ACE (Anti-Cheat Expert). Kernel-level anti-cheat with drivers (e.g., ace-Base.sys and ace-Game.sys).",
+      "drivers": [
+        "ace-Base.sys",
+        "ace-Game.sys"
+      ]
+    }
+  ],
+  "Nexon Game Security": [
+    {
+      "game": "MapleStory",
+      "kernel": true,
+      "os": [
+        "Windows"
+      ],
+      "notes": "Nexon Game Security (NGS). Uses a kernel driver (BlackCat.sys) to protect processes in games like MapleStory.",
+      "drivers": [
+        "BlackCat.sys"
+      ]
+    },
+    {
+      "game": "Combat Arms",
+      "kernel": true,
+      "os": [
+        "Windows"
+      ],
+      "notes": "Nexon Game Security (NGS). Uses a kernel driver (BlackCat.sys) to protect processes in games like MapleStory.",
+      "drivers": [
+        "BlackCat.sys"
+      ]
+    },
+    {
+      "game": "Mabinogi",
+      "kernel": true,
+      "os": [
+        "Windows"
+      ],
+      "notes": "Nexon Game Security (NGS). Uses a kernel driver (BlackCat.sys) to protect processes in games like MapleStory.",
+      "drivers": [
+        "BlackCat.sys"
+      ]
+    }
+  ],
+  "Mail.ru Anti-Cheat": [
+    {
+      "game": "Warface (Mail.ru client)",
+      "kernel": true,
+      "os": [
+        "Windows"
+      ],
+      "notes": "Mail.ru/My.Games’ MRAC anti-cheat (used in Warface, etc.). Employs kernel driver mracdrv.sys.",
+      "drivers": [
+        "mracdrv.sys"
+      ]
+    },
+    {
+      "game": "CrossFire (RU)",
+      "kernel": true,
+      "os": [
+        "Windows"
+      ],
+      "notes": "Mail.ru/My.Games’ MRAC anti-cheat (used in Warface, etc.). Employs kernel driver mracdrv.sys.",
+      "drivers": [
+        "mracdrv.sys"
+      ]
+    }
+  ],
+  "SARD": [
+    {
+      "game": "APB Reloaded (2024+)",
+      "kernel": true,
+      "os": [
+        "Windows"
+      ],
+      "notes": "SARD Anti-Cheat (AI-powered, introduced ~2024). Kernel-based anti-cheat used in some MMOs (e.g., APB Reloaded)."
+    },
+    {
+      "game": "Test Drive Unlimited Solar Crown",
+      "kernel": true,
+      "os": [
+        "Windows"
+      ],
+      "notes": "SARD Anti-Cheat (AI-powered, introduced ~2024). Kernel-based anti-cheat used in some MMOs (e.g., APB Reloaded)."
+    }
+  ],
+  "X-Trap": [
+    {
+      "game": "Old School RuneScape (Jagex Launcher)",
+      "kernel": true,
+      "os": [
+        "Windows"
+      ],
+      "notes": "WISELOGIC’s X-Trap anti-cheat (common in older online games). Acts at kernel level to block cheats."
+    },
+    {
+      "game": "Metin2 (SG)",
+      "kernel": true,
+      "os": [
+        "Windows"
+      ],
+      "notes": "WISELOGIC’s X-Trap anti-cheat (common in older online games). Acts at kernel level to block cheats."
+    }
+  ],
+  "AnyBrain": [
+    {
+      "game": "Diabotical",
+      "kernel": false,
+      "os": [],
+      "notes": "AnyBrain anti-cheat (focuses on AI-based cheat detection). Likely server-side/behavioral (no kernel driver)."
+    }
+  ],
+  "Saberclaw": [
+    {
+      "game": "Bloodhunt",
+      "kernel": false,
+      "os": [
+        "Windows"
+      ],
+      "notes": "Saberclaw anti-cheat (little public information). Presumably operates in user-mode."
+    }
+  ],
+  "EMAC LAB": [
+    {
+      "game": "Lost Ark (RU)",
+      "kernel": false,
+      "os": [
+        "Windows"
+      ],
+      "notes": "EMAC Lab anti-cheat (details not widely known)."
+    }
+  ],
+  "WFSDrv": [
+    {
+      "game": "Revelation Online",
+      "kernel": true,
+      "os": [
+        "Windows"
+      ],
+      "notes": "A kernel driver (WFSDrv.sys) observed in certain games (likely part of an older anti-cheat solution)."
+    }
+  ],
+  "Warden": [
+    {
+      "game": "World of Warcraft",
+      "kernel": false,
+      "os": [
+        "Windows"
+      ],
+      "notes": "Blizzard’s Warden anti-cheat (used in WoW, etc.). Scans memory from user-mode; no kernel component."
+    },
+    {
+      "game": "Diablo III",
+      "kernel": false,
+      "os": [
+        "Windows"
+      ],
+      "notes": "Blizzard’s Warden anti-cheat (used in WoW, etc.). Scans memory from user-mode; no kernel component."
+    }
+  ],
+  "AhnLab HackShield": [
+    {
+      "game": "MapleStory (pre-NGS)",
+      "kernel": true,
+      "os": [
+        "Windows"
+      ],
+      "notes": "AhnLab HackShield (legacy anti-cheat). Uses kernel driver (EagleNT.sys) on Windows.",
+      "drivers": [
+        "EagleNT.sys"
+      ]
+    }
+  ],
+  "KSophon": [
+    {
+      "game": "PUBG (Chinese ver.)",
+      "kernel": true,
+      "os": [
+        "Windows"
+      ],
+      "notes": "Kernel driver (ksophon_x64.sys) known from Tencent’s TenProtect anti-cheat (used in PUBG, etc.).",
+      "drivers": [
+        "ksophon_x64.sys"
+      ]
+    }
+  ],
+  "NetEase Anti-Cheat Expert": [
+    {
+      "game": "Naraka: Bladepoint (CN)",
+      "kernel": true,
+      "os": [
+        "Windows"
+      ],
+      "notes": "NetEase’s own anti-cheat solution (similar to ACE). Uses a kernel driver (neacsafe.sys) on PC.",
+      "drivers": [
+        "neacsafe.sys"
+      ]
+    }
+  ],
+  "MY.GAMES Anti-Cheat": [
+    {
+      "game": "Warface (My.Games)",
+      "kernel": true,
+      "os": [
+        "Windows"
+      ],
+      "notes": "My.Games (Mail.ru) anti-cheat, same MRAC system with kernel driver mracdrv.sys.",
+      "drivers": [
+        "mracdrv.sys"
+      ]
+    }
+  ],
+  "Proxima Game Anti Cheat": [
+    {
+      "game": "SYNCED",
+      "kernel": true,
+      "os": [
+        "Windows"
+      ],
+      "notes": "Proxima anti-cheat (e.g., in SYNCED, 2023). Employs kernel-level components (service/driver) to prevent cheating."
+    }
+  ],
+  "Seasun Protect": [
+    {
+      "game": "JX3 Online",
+      "kernel": true,
+      "os": [
+        "Windows"
+      ],
+      "notes": "Seasun Games’ anti-cheat (used in their titles). Likely includes a kernel-mode module."
+    }
+  ],
+  "ESL Wire": [
+    {
+      "game": "ESL Tournaments (general)",
+      "kernel": false,
+      "os": [
+        "Windows"
+      ],
+      "notes": "ESL Wire anti-cheat client for esports. Primarily user-mode scanning."
+    }
+  ],
+  "NetEase Game Security": [
+    {
+      "game": "Knives Out (PC)",
+      "kernel": false,
+      "os": [
+        "Windows"
+      ],
+      "notes": "NetEase Game Security (general anti-cheat for their games). Details not public; presumably user-mode."
+    }
+  ],
+  "IronShield": [
+    {
+      "game": "Dark and Darker (Ironmace)",
+      "kernel": false,
+      "os": [
+        "Windows"
+      ],
+      "notes": "Ironshield anti-cheat (Dark and Darker). Runs in user-mode, capturing memory snapshots and screenshots."
+    }
+  ],
+  "Tavern": [
+    {
+      "game": "Dark and Darker (Playtest)",
+      "kernel": false,
+      "os": [
+        "Windows"
+      ],
+      "notes": "Dark and Darker’s “Tavern” anti-cheat (Tavern.exe/Worker). No kernel driver; user-mode processes monitor the game."
+    }
+  ],
+  "Esportal": [
+    {
+      "game": "Esportal (CS:GO platform)",
+      "kernel": true,
+      "os": [
+        "Windows"
+      ],
+      "notes": "Esportal anti-cheat client (for CS:GO platform). Uses kernel driver EspoDriver.sys on Windows.",
+      "drivers": [
+        "EspoDriver.sys"
+      ]
+    }
+  ],
+  "GuardenAC": [
+    {
+      "game": "Critical Ops (Community)",
+      "kernel": false,
+      "os": [
+        "Windows"
+      ],
+      "notes": "GuardenAC anti-cheat (limited information available). Likely a user-mode anti-cheat solution."
+    }
+  ],
+  "VIOLET": [
+    {
+      "game": "Blade & Soul (PURPLE client)",
+      "kernel": false,
+      "os": [
+        "Windows"
+      ],
+      "notes": "NCSoft’s VIOLET Anti-Cheat (for PURPLE platform games). Operates at user-level to detect unauthorized programs."
+    }
+  ],
+  "Active Anticheat": [
+    {
+      "game": "Various (Unspecified)",
+      "kernel": false,
+      "os": [
+        "Windows"
+      ],
+      "notes": "An anti-cheat referred to as “Active Anticheat”. Presumably no kernel driver (application-level protection)."
+    }
+  ],
+  "4game Guard / Frost Security": [
+    {
+      "game": "Lineage II (Innova)",
+      "kernel": true,
+      "os": [
+        "Windows"
+      ],
+      "notes": "Frost Security (4game Guard) used by Innova for games like Lineage II. Utilizes low-level (kernel) measures to block cheats."
+    }
+  ],
+  "Arkos": [
+    {
+      "game": "Caliber (RU Beta)",
+      "kernel": false,
+      "os": [
+        "Windows"
+      ],
+      "notes": "Arkos anti-cheat (very little info publicly). Probably a user-mode anti-cheat system."
+    }
+  ],
+  "TenProtect": [
+    {
+      "game": "PUBG (Tencent Emulator PC)",
+      "kernel": true,
+      "os": [
+        "Windows"
+      ],
+      "notes": "Tencent’s TenProtect PC anti-cheat (e.g., for PUBG). Employs kernel driver ksophon_x64.sys.",
+      "drivers": [
+        "ksophon_x64.sys"
+      ]
+    }
+  ],
+  "Fredaikis Anti-Cheat": [
+    {
+      "game": "Infestation: The New Z",
+      "kernel": false,
+      "os": [
+        "Windows"
+      ],
+      "notes": "Anti-cheat used in Fredaikis games (Infestation: The New Z, etc.). Likely runs in user-mode."
+    }
+  ],
+  "CrackProof": [
+    {
+      "game": "Street Fighter V (Arcade Edition)",
+      "kernel": true,
+      "os": [
+        "Windows"
+      ],
+      "notes": "“CrackProof” anti-cheat/anti-tamper system noted in some PC titles. Implements kernel-level protections."
+    },
+    {
+      "game": "Marvel vs. Capcom: Infinite",
+      "kernel": true,
+      "os": [
+        "Windows"
+      ],
+      "notes": "“CrackProof” anti-cheat/anti-tamper system noted in some PC titles. Implements kernel-level protections."
+    },
+    {
+      "game": "Ultra Street Fighter IV",
+      "kernel": true,
+      "os": [
+        "Windows"
+      ],
+      "notes": "“CrackProof” anti-cheat/anti-tamper system noted in some PC titles. Implements kernel-level protections."
+    },
+    {
+      "game": "Street Fighter X Tekken",
+      "kernel": true,
+      "os": [
+        "Windows"
+      ],
+      "notes": "“CrackProof” anti-cheat/anti-tamper system noted in some PC titles. Implements kernel-level protections."
+    }
+  ],
+  "SCUE4": [
+    {
+      "game": "Smite (Console)",
+      "kernel": false,
+      "os": [
+        "Windows"
+      ],
+      "notes": "SCUE4 anti-cheat (exact identity unclear). Presumably a user-mode anti-cheat component."
+    }
+  ],
+  "Packman": [
+    {
+      "game": "League of Legends",
+      "kernel": false,
+      "os": [
+        "Windows"
+      ],
+      "notes": "Riot’s Packman (League of Legends anti-tamper). Ring 3 anti-cheat that encrypts and monitors the game client."
+    }
+  ],
+  "GuardingPearSoftware's Anti Cheat Pro": [
+    {
+      "game": "Unity Engine games (general)",
+      "kernel": false,
+      "os": [
+        "Windows"
+      ],
+      "notes": "GuardingPearSoftware Anti-Cheat Pro (Unity Asset). Developer-side anti-cheat toolkit (no kernel driver)."
+    }
+  ]
+}

@@ -4,15 +4,14 @@ mod scanner;
 mod ui;
 mod utils;
 
-use crate::ui::initialize_cli;
-use anticheat::get_known_anti_cheats;
 use std::io::{self, Read};
 
 const VERSION: &str = env!("CARGO_PKG_VERSION");
 
 fn main() {
     // Initialize the CLI
-    let output_style = initialize_cli();
+    let output_style = ui::initialize_cli();
+    let ac_data = utils::load_ac_data();
 
     // Start the Program
     println!(
@@ -21,7 +20,7 @@ fn main() {
     );
 
     // Scan for known anti-cheat drivers
-    let cheats = get_known_anti_cheats();
+    let cheats = anticheat::get_known_anti_cheats();
     let mut any_found = false;
     let mut specific_found = false;
 
