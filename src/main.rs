@@ -4,6 +4,7 @@ mod scanner;
 mod ui;
 mod utils;
 
+use serde_json::Value;
 use std::io::{self, Read};
 
 const VERSION: &str = env!("CARGO_PKG_VERSION");
@@ -11,7 +12,25 @@ const VERSION: &str = env!("CARGO_PKG_VERSION");
 fn main() {
     // Initialize the CLI
     let output_style = ui::initialize_cli();
-    let ac_data = utils::load_ac_data();
+
+    // load AC Data from JSON
+    match utils::load_ac_data() {
+        Ok(ac_data) => {
+            for (name, entries) in ac_data {
+                println!("Anticheat: {}", name);
+                for entry in entries {
+                    println!("  Game: {}", entry.game);
+                    println!("  Kernel: {}", entry.kernel);
+                    println!("  OS: {:?}", entry.os);
+                    println!("  Notes: {}", entry.notes);
+                    println!("  Drivers: {:?}", entry.drivers);
+                    println!();
+                }
+                println!();
+            }
+        }
+        Err(e) => eprintln!("Error loading data: {}", e),
+    }
 
     // Start the Program
     println!(
